@@ -24,4 +24,4 @@
 python3 grepanizer.py grep_file.txt
 ```
 
-![grepanizer](https://github.com/4ndymcfly/grepanizer/assets/30553433/d8d8d8c8-9889-4d7c-a614-c70f64bc9e9a)
+![grepanizer1](https://github.com/4ndymcfly/grepanizer/assets/30553433/dd400c5e-9e29-40b8-82bf-8d1863f4ca91)
