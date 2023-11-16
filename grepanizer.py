@@ -55,4 +55,5 @@ def analyze_nmap_output(filename):
 
 # Call the function with the name of your file
 if __name__ == "__main__":
+    print("\nGREPANIZER\nby: @4ndymcfly")
     analyze_nmap_output(sys.argv[1])
