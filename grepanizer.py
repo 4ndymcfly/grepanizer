@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Author: @4ndymcfly
+# Date: 16/11/2023
+
 import sys
 import re
 from collections import defaultdict
