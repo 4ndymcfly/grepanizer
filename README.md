@@ -21,7 +21,7 @@
 
 * Run the script using Python
 ```bash
-python3 grepanizer.py grep_file.txt
+python3 grepanizer.py example_grep_file.txt
 ```
 
 ![grepanizer1](https://github.com/4ndymcfly/grepanizer/assets/30553433/dd400c5e-9e29-40b8-82bf-8d1863f4ca91)
