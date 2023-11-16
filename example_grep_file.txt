@@ -1,0 +1,18 @@
+# Nmap 7.94SVN scan initiated as: nmap -p- --open -sS --min-rate 5000 -n -Pn -oG allHosts 192.168.191.220-227
+Host: 192.168.191.220 ()	Status: Up
+Host: 192.168.191.220 ()	Ports: 80/open/tcp//http///, 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 5900/open/tcp//vnc///, 5985/open/tcp//wsman///, 47001/open/tcp//winrm///, 49664/open/tcp/////, 49665/open/tcp/////, 49666/open/tcp/////, 49667/open/tcp/////, 49668/open/tcp/////, 49669/open/tcp/////, 49670/open/tcp/////, 49672/open/tcp/////
+Host: 192.168.191.221 ()	Status: Up
+Host: 192.168.191.221 ()	Ports: 80/open/tcp//http///, 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 443/open/tcp//https///, 445/open/tcp//microsoft-ds///, 3387/open/tcp//backroomnet///, 5504/open/tcp//fcp-cics-gw1///, 5985/open/tcp//wsman///, 10000/open/tcp//snet-sensor-mgmt///, 47001/open/tcp//winrm///, 49664/open/tcp/////, 49665/open/tcp/////, 49666/open/tcp/////, 49667/open/tcp/////, 49668/open/tcp/////, 49669/open/tcp/////, 49670/open/tcp/////, 49672/open/tcp/////, 49673/open/tcp/////, 49674/open/tcp/////, 49675/open/tcp/////, 49680/open/tcp/////
+Host: 192.168.191.222 ()	Status: Up
+Host: 192.168.191.222 ()	Ports: 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 2994/open/tcp//veritas-vis2///, 5985/open/tcp//wsman///, 47001/open/tcp//winrm///, 49664/open/tcp/////, 49665/open/tcp/////, 49666/open/tcp/////, 49667/open/tcp/////, 49668/open/tcp/////, 49669/open/tcp/////, 49670/open/tcp/////
+Host: 192.168.191.223 ()	Status: Up
+Host: 192.168.191.223 ()	Ports: 60001/open/tcp/////
+Host: 192.168.191.224 ()	Status: Up
+Host: 192.168.191.224 ()	Ports: 22/open/tcp//ssh///, 3128/open/tcp//squid-http///, 8000/open/tcp//http-alt///
+Host: 192.168.191.225 ()	Status: Up
+Host: 192.168.191.225 ()	Ports: 21/open/tcp//ftp///, 80/open/tcp//http///, 8090/open/tcp//opsmessaging///
+Host: 192.168.191.226 ()	Status: Up
+Host: 192.168.191.226 ()	Ports: 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 2994/open/tcp//veritas-vis2///, 5985/open/tcp//wsman///, 24621/open/tcp/////, 24680/open/tcp//tcc-http///, 47001/open/tcp//winrm///, 49664/open/tcp/////, 49665/open/tcp/////, 49666/open/tcp/////, 49667/open/tcp/////, 49668/open/tcp/////, 49669/open/tcp/////
+Host: 192.168.191.227 ()	Status: Up
+Host: 192.168.191.227 ()	Ports: 80/open/tcp//http///, 3389/open/tcp//ms-wbt-server///	Ignored State: filtered (65533)
+# Nmap done -- 8 IP addresses (8 hosts up) scanned in 138.31 seconds
