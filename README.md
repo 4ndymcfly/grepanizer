@@ -12,10 +12,7 @@
 
 ### Installing
 
-* Clone the repository to your local machine
-* Install the necessary Python packages (if any) with `requirements.txt` file
-
-### Executing program
+* Clone the repository to your local machine and enter the folder.
 
 * Run the script using Python
 ```bash
